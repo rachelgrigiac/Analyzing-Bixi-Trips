@@ -25,3 +25,6 @@ The datasets for this project were obtained from the following sources:
 
 
 Python (pandas, numpy, seaborn, matplotlib, folium, scikit-learn) was used throughout the analysis, through Jupyter Ntoebooks, as well as Tableau for the dashboard creation.
+
+
+[Tableau Dashboard](https://public.tableau.com/views/BixiTripsPresentation/BIXI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
